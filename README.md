@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aalnujaidy&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aalnujaidy&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight" />
 </a>
 
 
