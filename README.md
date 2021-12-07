@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### My Projects ✨:
   
 <a href="https://github.com/aalnujaidy/SDAIA_MTA.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalnujaidy&repo=Background-generator&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/robofriends">
