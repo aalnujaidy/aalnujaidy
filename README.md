@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
-<img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=aalnujaidy&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight" />
-<img alt= "stats card" height="270px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aalnujaidy&include_all_commits=true&count_private=true&theme=tokyonight" />
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=aalnujaidy&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
+  <img align="center" src="![Github Stats](https://github-readme-stats.vercel.app/api?username=aalnujaidy&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)" />
+</a>
+
+
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalnujaidy&include_all_commits=true&count_private=true&theme=tokyonight" />
+</a>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aalnujaidy&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
 ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=aalnujaidy&include_all_commits=true&count_private=true&theme=tokyonight)
- -->
+
 <br>
 
 <br/>
