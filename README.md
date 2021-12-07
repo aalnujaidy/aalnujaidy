@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aalnujaidy&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aalnujaidy&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
 ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=aalnujaidy&include_all_commits=true&count_private=true)
 
 <br>
 
 <br/>
 
-### My Projects ✨:
+### My Projects:
   
 <a href="https://github.com/aalnujaidy/SDAIA_MTA.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalnujaidy&repo=SDAIA_MTA&theme=tokyonight" />
