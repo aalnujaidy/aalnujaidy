@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aalnujaidy&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalnujaidy&layout=compact)
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=aalnujaidy&theme=radical&include_all_commits=true&count_private=true)
 
 <br>
