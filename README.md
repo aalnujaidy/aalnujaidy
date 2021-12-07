@@ -30,23 +30,20 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalnujaidy&repo=SDAIA_MTA&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+<a href="https://github.com/aalnujaidy/Regression_SDAIA.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalnujaidy&repo=Regression_SDAIA&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+<a href="https://github.com/aalnujaidy/SDAIA_Classification.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalnujaidy&repo=SDAIA_Classification&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+<a href="https://github.com/aalnujaidy/Unsupervised_Machine_Learning">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalnujaidy&repo=Unsupervised_Machine_Learning&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+<a href="https://github.com/aalnujaidy/Deep_learning">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aalnujaidy&repo=Deep_learning&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
-</a>
 
